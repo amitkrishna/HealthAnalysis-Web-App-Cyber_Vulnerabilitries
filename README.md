@@ -14,4 +14,4 @@ The Patients will be able to visualize the data.
 Backend:-PHP<br/>
 Front-end:-Bootstrap,html5,Javascript.<br/>
 Storage:-Mysql.<br/>
-
+<h6>&copya3i7k4</h6>
