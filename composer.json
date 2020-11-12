@@ -1,6 +1,9 @@
-
 {
-"require": {
-"twig/twig": "1.13.*"
-}   
+    "authors": [
+        {
+            "name": "Amit Krishna",
+            "email": "amitkrishna936@protonmail.com",
+            "role": "Developer\"
+        }
+    ]
 }
